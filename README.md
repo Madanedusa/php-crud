@@ -1,2 +1,2 @@
 # php-crud
-crud php
+Código apenas didatico
