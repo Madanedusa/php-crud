@@ -10,6 +10,7 @@ $u->loadById($id);
 
 $u->delete();
 
-echo $u;
+//escrevendo
+echo $u . date('Y-m-d');
 
 ?>
